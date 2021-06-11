@@ -6,3 +6,5 @@ The log of my #100DaysOfCode challenge. Started on June 8, 2021.
 Counter App with incrementing, decrementing, and reset functionality
 
 ## R1D2
+
+Random Hex Color Generator that generates a different color upon a user's click
