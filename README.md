@@ -8,3 +8,7 @@ Counter App with incrementing, decrementing, and reset functionality
 ## R1D2
 
 Random Hex Color Generator that generates a different color upon a user's click
+
+## R1D3
+
+Random Number Generator that provides an example of being able to reuse code from previous Hex Color Generator for differing functionalties
