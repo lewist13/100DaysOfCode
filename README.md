@@ -12,3 +12,7 @@ Random Hex Color Generator that generates a different color upon a user's click
 ## R1D3
 
 Random Number Generator that provides an example of being able to reuse code from previous Hex Color Generator for differing functionalties
+
+## R1D4
+
+Modal-Popup App that opens an alert upon a user's click that includes a transition using animation slide, @keyframes, transform, and translateY.
